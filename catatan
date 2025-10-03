@@ -1,0 +1,15 @@
+Tutorial NextJS
+
+INSTALL
+npx create-next-app@latest my-app --yes
+
+Framework untuk reactjs, bagus untuk SEO, 
+Frontend dan Backend sudah di gabung
+
+Frontend segala yang ada di folder PAGES bisa di routing
+
+[SLUG] berfungsi untuk mengambil parameter dari url
+
+buat "islogin" untuk otorisasi akses page hanya jika sudah login
+ada shallow rooting ? buat API
+cara membuat style harus memanggil "styles"
